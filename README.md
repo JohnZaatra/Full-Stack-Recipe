@@ -74,30 +74,38 @@ This project is a **full-stack application** developed using **Vue.js** for the 
    ```bash
    git clone https://github.com/your-username/recipe-search-engine.git
    cd recipe-search-engine
-2. **Backend Setup:
-Navigate to the backend directory and install dependencies:
-*cd backend
-*npm install
-**Set up your MySQL database:
+2. **Backend Setup:**
+*Navigate to the backend directory and install dependencies:
+   ```bash
+   cd backend
+   npm install
+*Set up your MySQL database:
 *Create a new database (e.g., recipe_search_db).
-Import the schema provided in backend/db/schema.sql into your database.
-Update the database connection settings in backend/config/db.js with your MySQL credentials.
-Start the backend server:
-npm start
-Frontend Setup:
-Navigate to the frontend directory and install dependencies:
-cd frontend
-npm install
-Run the frontend development server:
+*Import the schema provided in backend/db/schema.sql into your database.
+*Update the database connection settings in backend/config/db.js with your MySQL credentials.
+*Start the backend server:
+   ```bash
+   npm start
+```
+3. **Frontend Setup:**
+*Navigate to the frontend directory and install dependencies:
+   ```bash
+   cd frontend
+   npm install
+*Run the frontend development server:
+   ```bash
 npm run serve
-Access the Application:
-Open your browser and go to http://localhost:8080 to see the application in action.
-Future Enhancements
+   ```
+4. **Access the Application:**
+*Open your browser and go to http://localhost:8080 to see the application in action.
 
-Deploy to Production: While the project currently runs locally, future work will involve deploying it to cloud platforms like AWS, Heroku, or DigitalOcean for production use.
-Advanced Search Filters: Implement more sophisticated filtering and sorting options, such as searching by ingredients, cooking time, or difficulty level.
-Improved User Interface: Continue enhancing the UI for a more seamless and intuitive user experience.
-Contribution
+# Future Enhancements
+
+*Deploy to Production: While the project currently runs locally, future work will involve deploying it to cloud platforms like AWS, Heroku, or DigitalOcean for production use.
+*Advanced Search Filters: Implement more sophisticated filtering and sorting options, such as searching by ingredients, cooking time, or difficulty level.
+*Improved User Interface: Continue enhancing the UI for a more seamless and intuitive user experience.
+
+# Contribution
 
 Feel free to fork this repository and submit pull requests. Any contributions, suggestions, or improvements are welcome!
 License
