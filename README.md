@@ -79,22 +79,22 @@ This project is a **full-stack application** developed using **Vue.js** for the 
    ```bash
    cd backend
    npm install
-*Set up your MySQL database:
-*Create a new database (e.g., recipe_search_db).
-*Import the schema provided in backend/db/schema.sql into your database.
-*Update the database connection settings in backend/config/db.js with your MySQL credentials.
-*Start the backend server:*
+* Set up your MySQL database:
+* Create a new database (e.g., recipe_search_db).
+* Import the schema provided in backend/db/schema.sql into your database.
+* Update the database connection settings in backend/config/db.js with your MySQL credentials.
+* Start the backend server:*
    ```bash
    npm start
-```
+   ```
 3. **Frontend Setup:**
-*Navigate to the frontend directory and install dependencies:
+* Navigate to the frontend directory and install dependencies:
    ```bash
    cd frontend
    npm install
-*Run the frontend development server:
+* Run the frontend development server:
    ```bash
-npm run serve
+   npm run serve
    ```
 4. **Access the Application:**
 * Open your browser and go to http://localhost:8080 to see the application in action.
