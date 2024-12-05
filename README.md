@@ -47,8 +47,8 @@ This project is a **full-stack application** developed using **Vue.js** for the 
 
 ## How It Works
 
-1. **Local Setup**:  
-   This project is hosted and run locally. The backend API communicates with a MySQL database installed on your computer, allowing users to interact with the system via a web browser. There is no live demo, but you can easily set up the project on your local machine to test its functionality.
+1. **Global or Local Setup:**
+   Originally, the backend was hosted globally at **Ben Gurion University**, making it accessible from anywhere. However, the project can easily be run locally by setting up the backend on your local machine. Simply modify a few configuration settings in the backend and frontend to point to your local or global server.
 
 2. **User Registration and Login**:  
    Users can create an account by registering with their credentials. Upon logging in, they gain access to personalized features such as saving recipes, managing favorites, and adding custom recipes.
@@ -83,7 +83,7 @@ This project is a **full-stack application** developed using **Vue.js** for the 
    * Set up your MySQL database:
       * Create a new database (e.g., recipe_search_db).
       * Import the schema provided in backend/db/schema.sql into your database.
-   * Update the database connection settings in backend/config/db.js with your MySQL credentials.
+   * Update the database connection settings in backend/config/db.js with your MySQL credentials (change the connection from global to local if needed).
    * Start the backend server:*
    ```bash
    npm start
