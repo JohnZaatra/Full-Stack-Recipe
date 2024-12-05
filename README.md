@@ -100,18 +100,4 @@ This project is a **full-stack application** developed using **Vue.js** for the 
 4. **Access the Application:**
    * Open your browser and go to http://localhost:8080 to see the application in action.
 
-# Future Enhancements
-
-   * Deploy to Production: While the project currently runs locally, future work will involve deploying it to cloud platforms like AWS, Heroku, or DigitalOcean for production use.
-   * Advanced Search Filters: Implement more sophisticated filtering and sorting options, such as searching by ingredients, cooking time, or difficulty level.
-   * Improved User Interface: Continue enhancing the UI for a more seamless and intuitive user experience.
-
-# Contribution
-
-Feel free to fork this repository and submit pull requests. Any contributions, suggestions, or improvements are welcome!
-License
-
-This project is licensed under the MIT License.
-Conclusion
-
 This full-stack recipe search engine is a showcase of modern web development practices and open-source technologies. By using Vue.js, Node.js, MySQL, and other essential tools, it demonstrates a high level of development expertise and is a perfect project for anyone looking to break into web development or show off their skills to potential employers. The project is a great example of clean, maintainable code and a user-centered design.
