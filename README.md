@@ -75,15 +75,15 @@ This project is a **full-stack application** developed using **Vue.js** for the 
    git clone https://github.com/your-username/recipe-search-engine.git
    cd recipe-search-engine
 2. **Backend Setup:**
-*Navigate to the backend directory and install dependencies:
+**Navigate to the backend directory and install dependencies:**
    ```bash
    cd backend
    npm install
-*Set up your MySQL database:
-*Create a new database (e.g., recipe_search_db).
-*Import the schema provided in backend/db/schema.sql into your database.
-*Update the database connection settings in backend/config/db.js with your MySQL credentials.
-*Start the backend server:
+*Set up your MySQL database:*
+*Create a new database (e.g., recipe_search_db).*
+*Import the schema provided in backend/db/schema.sql into your database.*
+*Update the database connection settings in backend/config/db.js with your MySQL credentials.*
+*Start the backend server:*
    ```bash
    npm start
 ```
