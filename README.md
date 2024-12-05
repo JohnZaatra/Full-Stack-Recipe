@@ -89,22 +89,22 @@ This project is a **full-stack application** developed using **Vue.js** for the 
    npm start
    ```
 3. **Frontend Setup:**
-* Navigate to the frontend directory and install dependencies:
-   ```bash
-   cd frontend
-   npm install
-* Run the frontend development server:
-   ```bash
-   npm run serve
-   ```
+   * Navigate to the frontend directory and install dependencies:
+      ```bash
+      cd frontend
+      npm install
+   * Run the frontend development server:
+      ```bash
+      npm run serve
+      ```
 4. **Access the Application:**
-* Open your browser and go to http://localhost:8080 to see the application in action.
+   * Open your browser and go to http://localhost:8080 to see the application in action.
 
 # Future Enhancements
 
-* Deploy to Production: While the project currently runs locally, future work will involve deploying it to cloud platforms like AWS, Heroku, or DigitalOcean for production use.
-* Advanced Search Filters: Implement more sophisticated filtering and sorting options, such as searching by ingredients, cooking time, or difficulty level.
-* Improved User Interface: Continue enhancing the UI for a more seamless and intuitive user experience.
+   * Deploy to Production: While the project currently runs locally, future work will involve deploying it to cloud platforms like AWS, Heroku, or DigitalOcean for production use.
+   * Advanced Search Filters: Implement more sophisticated filtering and sorting options, such as searching by ingredients, cooking time, or difficulty level.
+   * Improved User Interface: Continue enhancing the UI for a more seamless and intuitive user experience.
 
 # Contribution
 
