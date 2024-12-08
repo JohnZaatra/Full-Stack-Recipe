@@ -72,7 +72,7 @@ This project is a **full-stack application** developed using **Vue.js** for the 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/recipe-search-engine.git
+   git clone https://github.com/JohnZaatra/Full-Stack-Recipe.git
    cd recipe-search-engine
 2. **Backend Setup:**
    * Navigate to the backend directory and install dependencies:
