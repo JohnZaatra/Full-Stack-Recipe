@@ -99,5 +99,7 @@ This project is a **full-stack application** developed using **Vue.js** for the 
       ```
 4. **Access the Application:**
    * Open your browser and go to http://localhost:8080 to see the application in action.
+  
+
 
 This full-stack recipe search engine is a showcase of modern web development practices and open-source technologies. By using Vue.js, Node.js, MySQL, and other essential tools, it demonstrates a high level of development expertise and is a perfect project for anyone looking to break into web development or show off their skills to potential employers. The project is a great example of clean, maintainable code and a user-centered design.
